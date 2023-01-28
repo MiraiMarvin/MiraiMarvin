@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **at IIM Digital School**
 
-- 📫 How to reach me **marvin.clerc@edu.edu.devinci.fr**
+- 📫 How to reach me **marvin.clerc@edu.devinci.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
