@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">Hello, I am a 2nd year student in coding & digital innovations ,french developer</h3>
+<h3 align="center">Hello, I am a 3rd year student in coding & digital innovations ,french developer</h3>
 
 - 🌱 I’m currently studying **at IIM Digital School**
 
